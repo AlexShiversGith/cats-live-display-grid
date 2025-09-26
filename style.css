@@ -180,3 +180,9 @@ html,body{
 }
 
 }
+
+@media (max-width: 768px) {
+.wrapper {
+  width: calc(100% - 20px);
+}
+}
