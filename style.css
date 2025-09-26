@@ -166,7 +166,7 @@ html,body{
 
 @media (max-width: 1080px) {
 .wrapper{
-  width: 800px;
+  width: calc(100% - 40px);
 }
 
 .content{
