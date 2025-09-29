@@ -142,7 +142,6 @@ html,body{
 
 .content-item:hover{
   border: blue solid 2px;
-  offset: 3px;
 }
 
 .content-item-img{
@@ -185,4 +184,8 @@ html,body{
 .wrapper {
   width: calc(100% - 20px);
 }
+.content-item:hover{
+  border: grey solid 2px;
+}
+
 }
